@@ -3,9 +3,8 @@
 
 >Login and Signup
 
-<p>
+<p style="{"display": "flex"}>
 <img align="center" height="500px" width="250px" src="https://github.com/SumanthGaneshan/chat-app-flutter/blob/main/screenshots/Screenshot_1667566616.png">
-  <br/>
   <img align="center" height="500px" width="250px" src="https://github.com/SumanthGaneshan/chat-app-flutter/blob/main/screenshots/Screenshot_1667566591.png">
 </p>
 
